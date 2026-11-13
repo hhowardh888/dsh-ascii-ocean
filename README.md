@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="icon.svg" width="72" height="72" alt="ASCII Ocean icon">
 </p>
@@ -46,7 +47,7 @@ a sprite sheet.
 1. Clone this repository:
 
    ```sh
-   git clone https://github.com/<your-user>/dsh-ascii-ocean.git
+   git clone https://github.com/hhowardh888/dsh-ascii-ocean.git
    cd dsh-ascii-ocean
    ```
 
